@@ -1,0 +1,9 @@
+../Core/RFAL/source/rfal_dpo.c:100:6:rfalDpoInitialize	8	static
+../Core/RFAL/source/rfal_dpo.c:123:6:rfalDpoSetMeasureCallback	16	static
+../Core/RFAL/source/rfal_dpo.c:130:12:rfalDpoTableWrite	24	static
+../Core/RFAL/source/rfal_dpo.c:171:12:rfalDpoTableRead	24	static
+../Core/RFAL/source/rfal_dpo.c:194:12:rfalDpoAdjust	24	static
+../Core/RFAL/source/rfal_dpo.c:288:15:rfalDpoGetCurrentTableEntry	16	static
+../Core/RFAL/source/rfal_dpo.c:296:9:rfalDpoGetCurrentTableIndex	4	static
+../Core/RFAL/source/rfal_dpo.c:303:6:rfalDpoSetEnabled	16	static
+../Core/RFAL/source/rfal_dpo.c:313:6:rfalDpoIsEnabled	4	static

@@ -1,0 +1,16 @@
+../Core/RFAL/source/rfal_nfc.c:151:12:rfalNfcInitialize	3
+../Core/RFAL/source/rfal_nfc.c:177:12:rfalNfcDiscover	14
+../Core/RFAL/source/rfal_nfc.c:255:12:rfalNfcDeactivate	13
+../Core/RFAL/source/rfal_nfc.c:291:12:rfalNfcSelect	2
+../Core/RFAL/source/rfal_nfc.c:307:14:rfalNfcGetState	1
+../Core/RFAL/source/rfal_nfc.c:313:12:rfalNfcGetDevicesFound	4
+../Core/RFAL/source/rfal_nfc.c:334:12:rfalNfcGetActiveDevice	5
+../Core/RFAL/source/rfal_nfc.c:360:6:rfalNfcWorker	56
+../Core/RFAL/source/rfal_nfc.c:632:12:rfalNfcDataExchangeStart	21
+../Core/RFAL/source/rfal_nfc.c:769:12:rfalNfcDataExchangeGetStatus	14
+../Core/RFAL/source/rfal_nfc.c:864:19:rfalNfcPollTechDetetection	67
+../Core/RFAL/source/rfal_nfc.c:1190:19:rfalNfcPollCollResolution	69
+../Core/RFAL/source/rfal_nfc.c:1506:19:rfalNfcPollActivation	48
+../Core/RFAL/source/rfal_nfc.c:1874:19:rfalNfcListenActivation	27
+../Core/RFAL/source/rfal_nfc.c:2083:19:rfalNfcNfcDepActivate	8
+../Core/RFAL/source/rfal_nfc.c:2181:19:rfalNfcDeactivation	22

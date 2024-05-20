@@ -1,0 +1,8 @@
+../Core/NDEF/source/message/ndef_type_uri.c:175:17:ndefRtdUriPayloadGetLength	3
+../Core/NDEF/source/message/ndef_type_uri.c:191:23:ndefRtdUriToPayloadItem	7
+../Core/NDEF/source/message/ndef_type_uri.c:237:19:ndefRtdUriProtocolAutodetect	7
+../Core/NDEF/source/message/ndef_type_uri.c:268:12:ndefRtdUriInit	7
+../Core/NDEF/source/message/ndef_type_uri.c:304:12:ndefGetRtdUri	5
+../Core/NDEF/source/message/ndef_type_uri.c:326:19:ndefPayloadToRtdUri	5
+../Core/NDEF/source/message/ndef_type_uri.c:353:12:ndefRecordToRtdUri	6
+../Core/NDEF/source/message/ndef_type_uri.c:379:12:ndefRtdUriToRecord	5

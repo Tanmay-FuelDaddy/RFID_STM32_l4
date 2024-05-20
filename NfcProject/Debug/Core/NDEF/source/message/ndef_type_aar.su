@@ -1,0 +1,4 @@
+../Core/NDEF/source/message/ndef_type_aar.c:85:12:ndefRtdAarInit	24	static
+../Core/NDEF/source/message/ndef_type_aar.c:110:12:ndefGetRtdAar	24	static
+../Core/NDEF/source/message/ndef_type_aar.c:130:12:ndefRecordToRtdAar	16	static
+../Core/NDEF/source/message/ndef_type_aar.c:149:12:ndefRtdAarToRecord	24	static

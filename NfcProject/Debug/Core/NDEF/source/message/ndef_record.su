@@ -1,0 +1,17 @@
+../Core/NDEF/source/message/ndef_record.c:74:12:ndefRecordReset	32	static
+../Core/NDEF/source/message/ndef_record.c:103:12:ndefRecordInit	24	static
+../Core/NDEF/source/message/ndef_record.c:123:10:ndefRecordGetHeaderLength	24	static
+../Core/NDEF/source/message/ndef_record.c:154:10:ndefRecordGetLength	24	static
+../Core/NDEF/source/message/ndef_record.c:166:12:ndefRecordSetType	24	static
+../Core/NDEF/source/message/ndef_record.c:184:12:ndefRecordGetType	24	static
+../Core/NDEF/source/message/ndef_record.c:208:6:ndefRecordTypeMatch	24	static
+../Core/NDEF/source/message/ndef_record.c:227:12:ndefRecordSetId	16	static
+../Core/NDEF/source/message/ndef_record.c:252:12:ndefRecordGetId	16	static
+../Core/NDEF/source/message/ndef_record.c:267:12:ndefRecordSetPayload	16	static
+../Core/NDEF/source/message/ndef_record.c:285:12:ndefRecordGetPayload	16	static
+../Core/NDEF/source/message/ndef_record.c:300:12:ndefRecordDecode	24	static
+../Core/NDEF/source/message/ndef_record.c:420:12:ndefRecordEncodeHeader	24	static
+../Core/NDEF/source/message/ndef_record.c:481:19:ndefRecordEncodePayload	40	static
+../Core/NDEF/source/message/ndef_record.c:518:12:ndefRecordEncode	48	static
+../Core/NDEF/source/message/ndef_record.c:577:10:ndefRecordGetPayloadLength	24	static
+../Core/NDEF/source/message/ndef_record.c:600:16:ndefRecordGetPayloadItem	24	static

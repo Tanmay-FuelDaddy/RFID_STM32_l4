@@ -1,0 +1,2 @@
+../Core/RFAL/source/rfal_crc.c:51:10:rfalCrcCalculateCcitt	24	static
+../Core/RFAL/source/rfal_crc.c:69:17:rfalCrcUpdateCcitt	24	static

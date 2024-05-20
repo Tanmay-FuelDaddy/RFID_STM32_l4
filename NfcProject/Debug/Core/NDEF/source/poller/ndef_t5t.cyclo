@@ -1,0 +1,14 @@
+../Core/NDEF/source/poller/ndef_t5t.c:135:12:ndefT5TPollerSetAccessMode	1
+../Core/NDEF/source/poller/ndef_t5t.c:158:19:ndefT5TReadLField	9
+../Core/NDEF/source/poller/ndef_t5t.c:213:12:ndefT5TPollerContextInitialization	6
+../Core/NDEF/source/poller/ndef_t5t.c:277:12:ndefT5TPollerNdefDetect	39
+../Core/NDEF/source/poller/ndef_t5t.c:478:12:ndefT5TPollerReadRawMessage	9
+../Core/NDEF/source/poller/ndef_t5t.c:520:12:ndefT5TPollerWriteRawMessageLen	14
+../Core/NDEF/source/poller/ndef_t5t.c:577:12:ndefT5TPollerWriteRawMessage	11
+../Core/NDEF/source/poller/ndef_t5t.c:636:19:ndefT5TWriteCC	9
+../Core/NDEF/source/poller/ndef_t5t.c:682:12:ndefT5TPollerTagFormat	18
+../Core/NDEF/source/poller/ndef_t5t.c:791:12:ndefT5TPollerCheckPresence	3
+../Core/NDEF/source/poller/ndef_t5t.c:807:12:ndefT5TPollerCheckAvailableSpace	6
+../Core/NDEF/source/poller/ndef_t5t.c:831:12:ndefT5TPollerBeginWriteMessage	7
+../Core/NDEF/source/poller/ndef_t5t.c:865:12:ndefT5TPollerEndWriteMessage	6
+../Core/NDEF/source/poller/ndef_t5t.c:894:12:ndefT5TPollerSetReadOnly	6

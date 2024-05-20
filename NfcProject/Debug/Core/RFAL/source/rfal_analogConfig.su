@@ -1,0 +1,10 @@
+../Core/RFAL/source/rfal_analogConfig.c:119:6:rfalAnalogConfigInitialize	4	static
+../Core/RFAL/source/rfal_analogConfig.c:137:6:rfalAnalogConfigIsReady	4	static
+../Core/RFAL/source/rfal_analogConfig.c:144:12:rfalAnalogConfigListWriteRaw	16	static
+../Core/RFAL/source/rfal_analogConfig.c:185:12:rfalAnalogConfigListWrite	24	static
+../Core/RFAL/source/rfal_analogConfig.c:249:12:rfalAnalogConfigListReadRaw	24	static
+../Core/RFAL/source/rfal_analogConfig.c:275:12:rfalAnalogConfigListRead	32	static
+../Core/RFAL/source/rfal_analogConfig.c:308:12:rfalSetAnalogConfig	32	static
+../Core/RFAL/source/rfal_analogConfig.c:358:10:rfalAnalogConfigGenModeID	24	static
+../Core/RFAL/source/rfal_analogConfig.c:428:13:rfalAnalogConfigPtrUpdate	16	static
+../Core/RFAL/source/rfal_analogConfig.c:449:28:rfalAnalogConfigSearch	32	static

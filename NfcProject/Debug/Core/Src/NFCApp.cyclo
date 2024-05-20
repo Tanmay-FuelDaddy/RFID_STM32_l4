@@ -1,0 +1,16 @@
+../Core/Src/NFCApp.c:122:6:NFCAppInit	4
+../Core/Src/NFCApp.c:223:6:NFCAppTask	31
+../Core/Src/NFCApp.c:439:6:NFCAppStop	1
+../Core/Src/NFCApp.c:446:6:NFCP2P	5
+../Core/Src/NFCApp.c:516:12:NFCTransceiveBlocking	3
+../Core/Src/NFCApp.c:532:13:NFCNdef	25
+../Core/Src/NFCApp.c:749:13:ndefT2TCCDump	1
+../Core/Src/NFCApp.c:762:13:ndefT3TAIBDump	1
+../Core/Src/NFCApp.c:774:13:ndefT4TCCDump	1
+../Core/Src/NFCApp.c:786:13:ndefT5TCCDump	4
+../Core/Src/NFCApp.c:801:13:ndefCCDump	8
+../Core/Src/NFCApp.c:836:13:ndefDumpSysInfo	31
+../Core/Src/NFCApp.c:899:13:ndefIsSTTag	8
+../Core/Src/NFCApp.c:939:13:LedNotificationWriteDone	2
+../Core/Src/NFCApp.c:954:13:ledsOn	1
+../Core/Src/NFCApp.c:959:13:ledsOff	1

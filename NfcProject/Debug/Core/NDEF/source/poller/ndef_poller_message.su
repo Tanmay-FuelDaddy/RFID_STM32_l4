@@ -1,0 +1,2 @@
+../Core/NDEF/source/poller/ndef_poller_message.c:92:19:ndefPollerWriteRecord	72	static
+../Core/NDEF/source/poller/ndef_poller_message.c:166:12:ndefPollerWriteMessage	40	static

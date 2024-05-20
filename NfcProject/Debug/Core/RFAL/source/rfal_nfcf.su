@@ -1,0 +1,12 @@
+../Core/RFAL/source/rfal_nfcf.c:173:13:rfalNfcfComputeValidSENF	64	static
+../Core/RFAL/source/rfal_nfcf.c:254:12:rfalNfcfPollerInitialize	24	static
+../Core/RFAL/source/rfal_nfcf.c:274:12:rfalNfcfPollerPoll	40	static
+../Core/RFAL/source/rfal_nfcf.c:280:12:rfalNfcfPollerCheckPresence	16	static
+../Core/RFAL/source/rfal_nfcf.c:291:12:rfalNfcfPollerStartCheckPresence	24	static
+../Core/RFAL/source/rfal_nfcf.c:303:12:rfalNfcfPollerGetCheckPresenceStatus	8	static
+../Core/RFAL/source/rfal_nfcf.c:310:12:rfalNfcfPollerCollisionResolution	32	static
+../Core/RFAL/source/rfal_nfcf.c:322:12:rfalNfcfPollerStartCollisionResolution	32	static
+../Core/RFAL/source/rfal_nfcf.c:352:12:rfalNfcfPollerGetCollisionResolutionStatus	32	static
+../Core/RFAL/source/rfal_nfcf.c:430:12:rfalNfcfPollerCheck	136	static
+../Core/RFAL/source/rfal_nfcf.c:518:12:rfalNfcfPollerUpdate	56	static
+../Core/RFAL/source/rfal_nfcf.c:618:6:rfalNfcfListenerIsT3TReq	24	static

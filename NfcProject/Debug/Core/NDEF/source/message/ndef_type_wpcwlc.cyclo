@@ -1,0 +1,6 @@
+../Core/NDEF/source/message/ndef_type_wpcwlc.c:85:17:ndefRtdWpcWlcPayloadGetLength	3
+../Core/NDEF/source/message/ndef_type_wpcwlc.c:101:23:ndefRtdWpcWlcToPayloadItem	6
+../Core/NDEF/source/message/ndef_type_wpcwlc.c:141:12:ndefRtdWpcWlcInit	3
+../Core/NDEF/source/message/ndef_type_wpcwlc.c:164:12:ndefGetRtdWpcWlc	4
+../Core/NDEF/source/message/ndef_type_wpcwlc.c:184:12:ndefRecordToRtdWpcWlc	4
+../Core/NDEF/source/message/ndef_type_wpcwlc.c:203:12:ndefRtdWpcWlcToRecord	5

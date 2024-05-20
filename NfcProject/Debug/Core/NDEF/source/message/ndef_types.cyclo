@@ -1,0 +1,4 @@
+../Core/NDEF/source/message/ndef_types.c:85:12:ndefRecordToType	6
+../Core/NDEF/source/message/ndef_types.c:177:12:ndefTypeToRecord	3
+../Core/NDEF/source/message/ndef_types.c:194:12:ndefRecordSetNdefType	9
+../Core/NDEF/source/message/ndef_types.c:220:17:ndefRecordGetNdefType	8

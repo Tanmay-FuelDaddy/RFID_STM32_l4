@@ -1,0 +1,7 @@
+../Core/NDEF/source/message/ndef_type_text.c:94:17:ndefRtdTextPayloadGetLength	24	static
+../Core/NDEF/source/message/ndef_type_text.c:110:23:ndefRtdTextToPayloadItem	32	static
+../Core/NDEF/source/message/ndef_type_text.c:162:12:ndefRtdTextInit	32	static
+../Core/NDEF/source/message/ndef_type_text.c:202:12:ndefGetRtdText	32	static
+../Core/NDEF/source/message/ndef_type_text.c:227:19:ndefPayloadToRtdText	24	static
+../Core/NDEF/source/message/ndef_type_text.c:270:12:ndefRecordToRtdText	24	static
+../Core/NDEF/source/message/ndef_type_text.c:296:12:ndefRtdTextToRecord	16	static

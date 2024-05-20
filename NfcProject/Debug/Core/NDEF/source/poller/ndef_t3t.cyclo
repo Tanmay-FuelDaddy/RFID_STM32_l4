@@ -1,0 +1,17 @@
+../Core/NDEF/source/poller/ndef_t3t.c:129:19:ndefT3TPollerReadBlocks	10
+../Core/NDEF/source/poller/ndef_t3t.c:185:12:ndefT3TPollerReadBytes	19
+../Core/NDEF/source/poller/ndef_t3t.c:296:19:ndefT3TPollerReadAttributeInformationBlock	7
+../Core/NDEF/source/poller/ndef_t3t.c:342:12:ndefT3TPollerContextInitialization	4
+../Core/NDEF/source/poller/ndef_t3t.c:360:12:ndefT3TPollerNdefDetect	11
+../Core/NDEF/source/poller/ndef_t3t.c:446:12:ndefT3TPollerReadRawMessage	13
+../Core/NDEF/source/poller/ndef_t3t.c:517:19:ndefT3TPollerWriteBlocks	6
+../Core/NDEF/source/poller/ndef_t3t.c:549:12:ndefT3TPollerWriteBytes	20
+../Core/NDEF/source/poller/ndef_t3t.c:664:19:ndefT3TPollerWriteAttributeInformationBlock	4
+../Core/NDEF/source/poller/ndef_t3t.c:730:12:ndefT3TPollerWriteRawMessage	12
+../Core/NDEF/source/poller/ndef_t3t.c:788:12:ndefT3TPollerTagFormat	7
+../Core/NDEF/source/poller/ndef_t3t.c:830:12:ndefT3TPollerCheckPresence	3
+../Core/NDEF/source/poller/ndef_t3t.c:845:12:ndefT3TPollerCheckAvailableSpace	5
+../Core/NDEF/source/poller/ndef_t3t.c:864:12:ndefT3TPollerBeginWriteMessage	6
+../Core/NDEF/source/poller/ndef_t3t.c:892:12:ndefT3TPollerEndWriteMessage	6
+../Core/NDEF/source/poller/ndef_t3t.c:922:12:ndefT3TPollerWriteRawMessageLen	5
+../Core/NDEF/source/poller/ndef_t3t.c:939:12:ndefT3TPollerSetReadOnly	6

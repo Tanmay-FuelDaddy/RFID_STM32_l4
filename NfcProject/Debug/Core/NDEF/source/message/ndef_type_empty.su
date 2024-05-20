@@ -1,0 +1,5 @@
+../Core/NDEF/source/message/ndef_type_empty.c:79:17:ndefEmptyTypePayloadGetLength	16	static
+../Core/NDEF/source/message/ndef_type_empty.c:88:23:ndefEmptyTypePayloadItem	24	static
+../Core/NDEF/source/message/ndef_type_empty.c:108:12:ndefEmptyTypeInit	16	static
+../Core/NDEF/source/message/ndef_type_empty.c:125:12:ndefRecordToEmptyType	24	static
+../Core/NDEF/source/message/ndef_type_empty.c:150:12:ndefEmptyTypeToRecord	16	static

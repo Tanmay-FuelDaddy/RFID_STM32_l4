@@ -1,0 +1,6 @@
+../Core/NDEF/source/message/ndef_type_flat.c:79:17:ndefFlatPayloadTypePayloadGetLength	16	static
+../Core/NDEF/source/message/ndef_type_flat.c:91:23:ndefFlatPayloadTypePayloadItem	24	static
+../Core/NDEF/source/message/ndef_type_flat.c:111:12:ndefFlatPayloadTypeInit	16	static
+../Core/NDEF/source/message/ndef_type_flat.c:131:12:ndefGetFlatPayloadType	16	static
+../Core/NDEF/source/message/ndef_type_flat.c:147:12:ndefRecordToFlatPayloadType	32	static
+../Core/NDEF/source/message/ndef_type_flat.c:175:12:ndefFlatPayloadTypeToRecord	16	static

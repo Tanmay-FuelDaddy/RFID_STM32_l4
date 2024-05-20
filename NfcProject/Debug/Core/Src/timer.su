@@ -1,0 +1,5 @@
+../Core/Src/timer.c:63:10:timerCalculateTimer	16	static
+../Core/Src/timer.c:70:6:timerIsExpired	24	static
+../Core/Src/timer.c:94:6:timerDelay	24	static
+../Core/Src/timer.c:105:6:timerStopwatchStart	8	static
+../Core/Src/timer.c:112:10:timerStopwatchMeasure	8	static

@@ -1,0 +1,4 @@
+../Core/NDEF/source/message/ndef_types.c:85:12:ndefRecordToType	24	static
+../Core/NDEF/source/message/ndef_types.c:177:12:ndefTypeToRecord	16	static
+../Core/NDEF/source/message/ndef_types.c:194:12:ndefRecordSetNdefType	24	static
+../Core/NDEF/source/message/ndef_types.c:220:17:ndefRecordGetNdefType	16	static

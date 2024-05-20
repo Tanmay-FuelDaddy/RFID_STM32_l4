@@ -1,0 +1,5 @@
+../Core/RFAL/source/st25r3916/st25r3916_led.c:82:6:st25r3916ledInit	4	static
+../Core/RFAL/source/st25r3916/st25r3916_led.c:93:6:st25r3916ledEvtIrq	16	static
+../Core/RFAL/source/st25r3916/st25r3916_led.c:119:6:st25r3916ledEvtWrReg	16	static
+../Core/RFAL/source/st25r3916/st25r3916_led.c:136:6:st25r3916ledEvtWrMultiReg	24	static
+../Core/RFAL/source/st25r3916/st25r3916_led.c:148:6:st25r3916ledEvtCmd	16	static

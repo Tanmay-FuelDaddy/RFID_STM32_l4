@@ -1,0 +1,8 @@
+../Core/NDEF/source/message/ndef_message.c:72:20:ndefAllocRecord	2
+../Core/NDEF/source/message/ndef_message.c:93:12:ndefMessageInit	2
+../Core/NDEF/source/message/ndef_message.c:111:12:ndefMessageGetInfo	4
+../Core/NDEF/source/message/ndef_message.c:140:10:ndefMessageGetRecordCount	2
+../Core/NDEF/source/message/ndef_message.c:154:12:ndefMessageAppend	5
+../Core/NDEF/source/message/ndef_message.c:202:12:ndefMessageDecode	8
+../Core/NDEF/source/message/ndef_message.c:249:12:ndefMessageEncode	9
+../Core/NDEF/source/message/ndef_message.c:299:13:ndefMessageFindRecordType	5

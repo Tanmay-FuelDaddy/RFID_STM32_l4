@@ -1,0 +1,8 @@
+../Core/Src/bi2c.c:49:6:i2cInit	1
+../Core/Src/bi2c.c:55:19:i2cRead	1
+../Core/Src/bi2c.c:61:19:i2cWite	1
+../Core/Src/bi2c.c:67:19:i2cTx	1
+../Core/Src/bi2c.c:73:19:i2cRx	1
+../Core/Src/bi2c.c:79:19:i2cSequentialTx	7
+../Core/Src/bi2c.c:109:19:i2cSequentialRx	4
+../Core/Src/bi2c.c:130:19:i2cSequentialTxRx	8

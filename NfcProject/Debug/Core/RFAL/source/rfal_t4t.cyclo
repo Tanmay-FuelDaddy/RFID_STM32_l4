@@ -1,0 +1,9 @@
+../Core/RFAL/source/rfal_t4t.c:99:12:rfalT4TPollerComposeCAPDU	10
+../Core/RFAL/source/rfal_t4t.c:168:12:rfalT4TPollerParseRAPDU	5
+../Core/RFAL/source/rfal_t4t.c:194:12:rfalT4TPollerComposeSelectAppl	4
+../Core/RFAL/source/rfal_t4t.c:226:12:rfalT4TPollerComposeSelectFile	4
+../Core/RFAL/source/rfal_t4t.c:258:12:rfalT4TPollerComposeSelectFileV1Mapping	4
+../Core/RFAL/source/rfal_t4t.c:290:12:rfalT4TPollerComposeReadData	1
+../Core/RFAL/source/rfal_t4t.c:313:12:rfalT4TPollerComposeReadDataODO	1
+../Core/RFAL/source/rfal_t4t.c:344:12:rfalT4TPollerComposeWriteData	4
+../Core/RFAL/source/rfal_t4t.c:377:12:rfalT4TPollerComposeWriteDataODO	6

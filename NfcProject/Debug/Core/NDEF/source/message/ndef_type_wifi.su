@@ -1,0 +1,7 @@
+../Core/NDEF/source/message/ndef_type_wifi.c:181:17:ndefWifiPayloadGetLength	24	static
+../Core/NDEF/source/message/ndef_type_wifi.c:204:23:ndefWifiToPayloadItem	48	static
+../Core/NDEF/source/message/ndef_type_wifi.c:334:12:ndefWifiInit	24	static
+../Core/NDEF/source/message/ndef_type_wifi.c:359:12:ndefGetWifi	24	static
+../Core/NDEF/source/message/ndef_type_wifi.c:383:19:ndefPayloadToWifi	48	static
+../Core/NDEF/source/message/ndef_type_wifi.c:467:12:ndefRecordToWifi	24	static
+../Core/NDEF/source/message/ndef_type_wifi.c:493:12:ndefWifiToRecord	16	static

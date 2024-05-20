@@ -1,0 +1,7 @@
+../Core/RFAL/source/st25r3916/st25r3916_aat.c:80:12:st25r3916AatTune	10
+../Core/RFAL/source/st25r3916/st25r3916_aat.c:135:19:aatHillClimb	8
+../Core/RFAL/source/st25r3916/st25r3916_aat.c:180:16:aatSteepestDescent	8
+../Core/RFAL/source/st25r3916/st25r3916_aat.c:219:16:aatGreedyDescent	3
+../Core/RFAL/source/st25r3916/st25r3916_aat.c:247:17:aatCalcF	3
+../Core/RFAL/source/st25r3916/st25r3916_aat.c:267:19:aatStepDacVals	11
+../Core/RFAL/source/st25r3916/st25r3916_aat.c:297:19:aatMeasure	3

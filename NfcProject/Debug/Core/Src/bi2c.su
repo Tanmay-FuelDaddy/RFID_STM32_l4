@@ -1,0 +1,8 @@
+../Core/Src/bi2c.c:49:6:i2cInit	16	static
+../Core/Src/bi2c.c:55:19:i2cRead	32	static
+../Core/Src/bi2c.c:61:19:i2cWite	32	static
+../Core/Src/bi2c.c:67:19:i2cTx	24	static
+../Core/Src/bi2c.c:73:19:i2cRx	24	static
+../Core/Src/bi2c.c:79:19:i2cSequentialTx	32	static
+../Core/Src/bi2c.c:109:19:i2cSequentialRx	32	static
+../Core/Src/bi2c.c:130:19:i2cSequentialTxRx	40	static

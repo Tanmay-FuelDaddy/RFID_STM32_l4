@@ -1,0 +1,7 @@
+../Core/NDEF/source/message/ndef_type_deviceinfo.c:91:17:ndefRtdDeviceInfoPayloadGetLength	5
+../Core/NDEF/source/message/ndef_type_deviceinfo.c:117:23:ndefRtdDeviceInfoToPayloadItem	10
+../Core/NDEF/source/message/ndef_type_deviceinfo.c:174:12:ndefRtdDeviceInfoInit	17
+../Core/NDEF/source/message/ndef_type_deviceinfo.c:253:12:ndefGetRtdDeviceInfo	5
+../Core/NDEF/source/message/ndef_type_deviceinfo.c:277:19:ndefPayloadToRtdDeviceInfo	18
+../Core/NDEF/source/message/ndef_type_deviceinfo.c:369:12:ndefRecordToRtdDeviceInfo	6
+../Core/NDEF/source/message/ndef_type_deviceinfo.c:395:12:ndefRtdDeviceInfoToRecord	5

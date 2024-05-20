@@ -1,0 +1,4 @@
+../Core/NDEF/source/message/ndef_type_media.c:79:12:ndefMediaInit	4
+../Core/NDEF/source/message/ndef_type_media.c:104:12:ndefGetMedia	5
+../Core/NDEF/source/message/ndef_type_media.c:127:12:ndefRecordToMedia	6
+../Core/NDEF/source/message/ndef_type_media.c:157:12:ndefMediaToRecord	4

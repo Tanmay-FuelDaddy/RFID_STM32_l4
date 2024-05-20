@@ -1,0 +1,17 @@
+../Core/NDEF/source/message/ndef_record.c:74:12:ndefRecordReset	2
+../Core/NDEF/source/message/ndef_record.c:103:12:ndefRecordInit	2
+../Core/NDEF/source/message/ndef_record.c:123:10:ndefRecordGetHeaderLength	4
+../Core/NDEF/source/message/ndef_record.c:154:10:ndefRecordGetLength	1
+../Core/NDEF/source/message/ndef_record.c:166:12:ndefRecordSetType	5
+../Core/NDEF/source/message/ndef_record.c:184:12:ndefRecordGetType	6
+../Core/NDEF/source/message/ndef_record.c:208:6:ndefRecordTypeMatch	6
+../Core/NDEF/source/message/ndef_record.c:227:12:ndefRecordSetId	6
+../Core/NDEF/source/message/ndef_record.c:252:12:ndefRecordGetId	3
+../Core/NDEF/source/message/ndef_record.c:267:12:ndefRecordSetPayload	6
+../Core/NDEF/source/message/ndef_record.c:285:12:ndefRecordGetPayload	3
+../Core/NDEF/source/message/ndef_record.c:300:12:ndefRecordDecode	18
+../Core/NDEF/source/message/ndef_record.c:420:12:ndefRecordEncodeHeader	7
+../Core/NDEF/source/message/ndef_record.c:481:19:ndefRecordEncodePayload	5
+../Core/NDEF/source/message/ndef_record.c:518:12:ndefRecordEncode	9
+../Core/NDEF/source/message/ndef_record.c:577:10:ndefRecordGetPayloadLength	4
+../Core/NDEF/source/message/ndef_record.c:600:16:ndefRecordGetPayloadItem	6
